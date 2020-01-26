@@ -1,5 +1,7 @@
 # HelloScalatra #
-
+Before, Installing java, scala, sbt.
+## Instralltion Scalatra ##
+`$ sbt new scalatra/scalatra.g8`
 ## Build & Run ##
 
 ```sh
